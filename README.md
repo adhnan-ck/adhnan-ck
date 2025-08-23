@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  ![adhnan-ck's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhnan-ck&theme=tokyonight&hide_border=false)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhnan-ck&theme=tokyonight&hide_border=false" alt="adhnan-ck's Streak" />
 </p>
 
 <p align="center">
-![adhnan-ck's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhnan-ck&theme=tokyonight&show_icons=true&hide_border=false&layout=compact))
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhnan-ck&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="adhnan-ck's Top Languages" />
 </p>

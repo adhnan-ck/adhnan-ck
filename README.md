@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![adhnan-ck's Stats](https://github-readme-stats.vercel.app/api?username=adhnan-ck&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
-![adhnan-ck's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhnan-ck&theme=vue-dark&hide_border=true)
+<p align="center">
+  ![adhnan-ck's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhnan-ck&theme=tokyonight&hide_border=false)
+</p>
 
-![adhnan-ck's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhnan-ck&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+![adhnan-ck's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhnan-ck&theme=tokyonight&show_icons=true&hide_border=false&layout=compact))
+</p>
